@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>77DAD428-B9C6-4FB7-B933-330452BC3C4E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Relap SDK Example</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CF8EE47BD787AADE7FB319F9B9C6660F970C6439</key>
+		<string>https://github.com/IgorKamenev/relapsdk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Project/Relap SDK Example/Relap SDK Example.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CF8EE47BD787AADE7FB319F9B9C6660F970C6439</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/IgorKamenev/relapsdk</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CF8EE47BD787AADE7FB319F9B9C6660F970C6439</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CF8EE47BD787AADE7FB319F9B9C6660F970C6439</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RelapSDK</string>
+		</dict>
+	</array>
+</dict>
+</plist>
