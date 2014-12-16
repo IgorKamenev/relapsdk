@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
 	s.default_subspec = 'Core'
 	
 	s.subspec 'Core' do |core|
-		core.source_files = 'Classes/*.*'
-		core.public_header_files = 'Classes/*.h'
+		core.source_files = 'Relap SDK Classes/*.{m.h}'
+		core.public_header_files = 'Relap SDK Classes/*.h'
 	end	
 end
