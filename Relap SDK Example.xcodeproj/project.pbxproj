@@ -14,7 +14,7 @@
 		FB6FFB901A407822009DAD75 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB6FFB8F1A407822009DAD75 /* Images.xcassets */; };
 		FB6FFB931A407822009DAD75 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FB6FFB911A407822009DAD75 /* LaunchScreen.xib */; };
 		FB6FFB9F1A407822009DAD75 /* Relap_SDK_ExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FB6FFB9E1A407822009DAD75 /* Relap_SDK_ExampleTests.m */; };
-		FB6FFBAF1A4078CB009DAD75 /* RelapSDK.m in Sources */ = {isa = PBXBuildFile; fileRef = FB6FFBAE1A4078CB009DAD75 /* RelapSDK.m */; };
+		FB6FFBB31A409069009DAD75 /* RelapSDK.m in Sources */ = {isa = PBXBuildFile; fileRef = FB6FFBB21A409069009DAD75 /* RelapSDK.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,8 +41,8 @@
 		FB6FFB981A407822009DAD75 /* Relap SDK ExampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Relap SDK ExampleTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB6FFB9D1A407822009DAD75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FB6FFB9E1A407822009DAD75 /* Relap_SDK_ExampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Relap_SDK_ExampleTests.m; sourceTree = "<group>"; };
-		FB6FFBAD1A4078CB009DAD75 /* RelapSDK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RelapSDK.h; sourceTree = "<group>"; };
-		FB6FFBAE1A4078CB009DAD75 /* RelapSDK.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RelapSDK.m; sourceTree = "<group>"; };
+		FB6FFBB11A409069009DAD75 /* RelapSDK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RelapSDK.h; sourceTree = "<group>"; };
+		FB6FFBB21A409069009DAD75 /* RelapSDK.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RelapSDK.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +66,7 @@
 		FB6FFB761A407822009DAD75 = {
 			isa = PBXGroup;
 			children = (
-				FB6FFBAC1A4078CB009DAD75 /* Relap SDK Classes */,
+				FB6FFBB01A40818B009DAD75 /* Relap SDK Classes */,
 				FB6FFB811A407822009DAD75 /* Relap SDK Example */,
 				FB6FFB9B1A407822009DAD75 /* Relap SDK ExampleTests */,
 				FB6FFB801A407822009DAD75 /* Products */,
@@ -123,11 +123,11 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		FB6FFBAC1A4078CB009DAD75 /* Relap SDK Classes */ = {
+		FB6FFBB01A40818B009DAD75 /* Relap SDK Classes */ = {
 			isa = PBXGroup;
 			children = (
-				FB6FFBAD1A4078CB009DAD75 /* RelapSDK.h */,
-				FB6FFBAE1A4078CB009DAD75 /* RelapSDK.m */,
+				FB6FFBB11A409069009DAD75 /* RelapSDK.h */,
+				FB6FFBB21A409069009DAD75 /* RelapSDK.m */,
 			);
 			path = "Relap SDK Classes";
 			sourceTree = "<group>";
@@ -235,7 +235,7 @@
 				FB6FFB8B1A407822009DAD75 /* ViewController.m in Sources */,
 				FB6FFB881A407822009DAD75 /* AppDelegate.m in Sources */,
 				FB6FFB851A407822009DAD75 /* main.m in Sources */,
-				FB6FFBAF1A4078CB009DAD75 /* RelapSDK.m in Sources */,
+				FB6FFBB31A409069009DAD75 /* RelapSDK.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
