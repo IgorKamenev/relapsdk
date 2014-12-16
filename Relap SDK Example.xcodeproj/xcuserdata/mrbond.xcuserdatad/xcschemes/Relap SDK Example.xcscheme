@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FB6FFB4C1A406A89009DAD75"
+               BlueprintIdentifier = "FB6FFB7E1A407822009DAD75"
                BuildableName = "Relap SDK Example.app"
                BlueprintName = "Relap SDK Example"
                ReferencedContainer = "container:Relap SDK Example.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FB6FFB651A406A89009DAD75"
+               BlueprintIdentifier = "FB6FFB971A407822009DAD75"
                BuildableName = "Relap SDK ExampleTests.xctest"
                BlueprintName = "Relap SDK ExampleTests"
                ReferencedContainer = "container:Relap SDK Example.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FB6FFB651A406A89009DAD75"
+               BlueprintIdentifier = "FB6FFB971A407822009DAD75"
                BuildableName = "Relap SDK ExampleTests.xctest"
                BlueprintName = "Relap SDK ExampleTests"
                ReferencedContainer = "container:Relap SDK Example.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FB6FFB4C1A406A89009DAD75"
+            BlueprintIdentifier = "FB6FFB7E1A407822009DAD75"
             BuildableName = "Relap SDK Example.app"
             BlueprintName = "Relap SDK Example"
             ReferencedContainer = "container:Relap SDK Example.xcodeproj">
@@ -75,7 +75,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FB6FFB4C1A406A89009DAD75"
+            BlueprintIdentifier = "FB6FFB7E1A407822009DAD75"
             BuildableName = "Relap SDK Example.app"
             BlueprintName = "Relap SDK Example"
             ReferencedContainer = "container:Relap SDK Example.xcodeproj">
@@ -93,7 +93,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FB6FFB4C1A406A89009DAD75"
+            BlueprintIdentifier = "FB6FFB7E1A407822009DAD75"
             BuildableName = "Relap SDK Example.app"
             BlueprintName = "Relap SDK Example"
             ReferencedContainer = "container:Relap SDK Example.xcodeproj">

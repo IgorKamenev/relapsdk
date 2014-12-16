@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>77DAD428-B9C6-4FB7-B933-330452BC3C4E</string>
+	<string>94275685-B9D7-42BA-859D-3C9D2F55A000</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Relap SDK Example</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -14,11 +14,11 @@
 		<string>https://github.com/IgorKamenev/relapsdk</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Project/Relap SDK Example/Relap SDK Example.xcodeproj</string>
+	<string>Relap SDK Example.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>CF8EE47BD787AADE7FB319F9B9C6660F970C6439</key>
-		<string>../../../..</string>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/IgorKamenev/relapsdk</string>
