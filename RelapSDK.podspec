@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-	s.name = "Relap SDK"
+	s.name = "RelapSDK"
 	s.version = "0.0.1"
 	s.summary = "Relap.io SDK"
 	s.homepage = "https://github.com/igorkamenev/relapsdk"
